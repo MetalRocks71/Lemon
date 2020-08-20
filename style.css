@@ -1,0 +1,34 @@
+.recette{
+
+    background-color:rgb(227, 245, 198);
+    padding-bottom: 10px;
+    border-color: rgb(226, 220, 220);
+    border-style: solid;
+}
+
+
+.lblue{
+
+    background-color: lightskyblue;
+}
+
+.lgreen{
+
+    background-color: lightgreen;
+}
+
+.orange{
+
+    background-color: orange;
+    
+}
+
+cite{
+
+    color: rgb(22, 158, 243)
+}
+
+.red{
+
+    color:red;
+}
